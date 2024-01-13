@@ -18,7 +18,8 @@
       datasets: [{
         data: [
           500,
-          2100
+          2100,
+          3600
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
