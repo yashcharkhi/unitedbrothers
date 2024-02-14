@@ -19,7 +19,8 @@
         data: [
           500,
           2100,
-          3100
+          3100,
+          2000
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
