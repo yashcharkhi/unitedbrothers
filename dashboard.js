@@ -13,14 +13,19 @@
         'Nov',
         'Dec',
         'Jan',
-        'Feb'
+        'Feb',
+        'Mar',
+        'Apr',
+        'May'
       ],
       datasets: [{
         data: [
           500,
           2100,
           3100,
-          2000
+          2000,
+          2500,
+          3100
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
