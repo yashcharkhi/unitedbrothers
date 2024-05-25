@@ -16,7 +16,8 @@
         'Feb',
         'Mar',
         'Apr',
-        'May'
+        'May',
+        'Jun'
       ],
       datasets: [{
         data: [
@@ -25,7 +26,8 @@
           3100,
           2000,
           2500,
-          3100
+          3100,
+          3600
         ],
         lineTension: 0,
         backgroundColor: 'transparent',
