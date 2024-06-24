@@ -17,7 +17,8 @@
         'Mar',
         'Apr',
         'May',
-        'Jun'
+        'Jun',
+        'Jul'
       ],
       datasets: [{
         data: [
@@ -27,6 +28,7 @@
           2000,
           2500,
           3100,
+          3600,
           3600
         ],
         lineTension: 0,
